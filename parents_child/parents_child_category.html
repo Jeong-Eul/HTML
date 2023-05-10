@@ -1,0 +1,22 @@
+<ol>
+    <li>DATA</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ol>
+
+<h1>Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers</h1>
+<br>
+<p>When a clinician refers a patient for an imaging exam, they include the reason (e.g. relevant patient history, 
+    suspected disease) in the scan request; this appears as the indication field in the radiology report. 
+    The interpretation and reporting of the image are substantially influenced by this request text, 
+    steering the radiologist to focus on particular aspects of the image. 
+    We use the indication field to drive better image classification, 
+    by taking a transformer network which is unimodally pre-trained on text (BERT) and
+    fine-tuning it for multimodal classification of a dual image-text input.</p>
+ <p align="center"><img src="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/Paper/Indication/fig1.jpg?raw=true" width="50%"></p>   
+ 
+<p>We evaluate the method on the MIMIC-CXR dataset, and present ablation studies
+    to investigate the effect of the indication field on the classification performance. 
+    The experimental results show our approach achieves 87.8 average micro AUROC, 
+    outperforming <strong>the state-of-the-art methods for unimodal (84.4) and multimodal (86.0) classification.</strong></p>
