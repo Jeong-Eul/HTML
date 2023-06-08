@@ -8,3 +8,8 @@ webpage와 webpage를 연결하는 링크를 배우기도 했음
 
 아래 사진과 같음   
 
+<p align='center'><img src="https://github.com/Jeong-Eul/HTML/blob/main/complet%20of%20website/image.jpg?raw=true"></p>  
+
+1. 제일 위에 있는 WEB 은 index.html로 연결할 것임  
+2. html 링크를 클링하면 1.html로 갈거임  
+3. css, javascript도 마찬가지로  
