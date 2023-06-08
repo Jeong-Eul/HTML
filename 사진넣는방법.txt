@@ -1,0 +1,11 @@
+<p>이미지를  html에 넣는 방법은 img 태그를 사용하는 것이다. 하지만 태그의 이름 만으로는 정보가 부족하다.
+    따라서 새로운 문법을 추가 시키기 시작했다. 그것은 바로 어떤 이미지 인지 알려주기로 약속한 source 즉 줄여서
+    src라고 하기로 했다. src = 이미지 주소 이런식으로 하면 이미지를 삽입할 수 있음 unsplash라는 사이트는
+    저작권에 구애 받지 않고 사용할 수 있는 이미지들이 있다. 이를 이용해보자.
+</p>
+<br>
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" width="30%">
+
+<p>src, width 같은 애들은 속석(attribute)라고 한다. 태그가 태그 자체로 정보가 부족할때
+    속성을 통해 의미를 부여할 수 있다.
+</p>
